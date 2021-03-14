@@ -1,5 +1,6 @@
 # LinkListFinal
  Assignment 1
+
 public class LinkedListInteger {
 
 	int number;
